@@ -1,4 +1,5 @@
 *.sql
 *.env
 trades.csv
+target/trades.csv
 
